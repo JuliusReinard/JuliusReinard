@@ -4,7 +4,7 @@
 
 ## About Me
   * I graduated student looking for opportunities in **engineering surveying** and **mappin**g, **geospatial information scienc**e, **data science**, **oil and gas company**, and **mineral exploration**
-  * I'm currently learning: **Data Processing and Modelling** with geoprocessing software and some programming languages and also **Web Development**
+  * I'm currently learning: **Data Processing and Modelling** with geoprocessing software and some programming languages and also **Data Analytics**
   * I'm also looking for: an Internship or job opportunities
 
 ## My Skill
