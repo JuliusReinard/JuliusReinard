@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @JuliusReinard
-- 👀 I’m interested in Data Analytics and Business Intelligence
-- 🌱 I’m currently learning SQL for data analysis and business intelligence
-- 📫 How to reach me juliusreinard@gmail.com or you can contact me through whatsapp on 0817244242
-
-<!---
-JuliusReinard/JuliusReinard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I graduated student looking for opportunities in engineering surveying and mapping, geospatial information science, data science, oil and gas company, and mineral exploration
+I'm currently learning: Data Processing and Modelling with geoprocessing software and some programming languages and also data analystics
+I'm also looking for: an Internship or job opportunities
